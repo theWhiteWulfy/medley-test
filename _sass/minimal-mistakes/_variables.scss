@@ -18,8 +18,6 @@
    
 
 
-
-
 $doc-font-size: 16 !default;
 
 /* paragraph indention */
@@ -36,9 +34,9 @@ $indent-var: 1.3em !default;
 $sans-serif: 'Josefin Sans', sans-serif;*/
 
 $serif: 'Playfair Display', serif;
-$sans-serif: 'Neutron', $garamond, sans-serif;
+$sans-serif: 'Neutron', $garamond, serif;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
-$sans-serif-narrow: $sans-serif !default;
+$sans-serif-narrow: $serif !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $serif !default;
