@@ -15,10 +15,15 @@ $indent-var: 1.3em !default;
 /* system typefaces */
 
 /*custom fonts*/
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Quattrocento:400,700&subset=latin-ext');
+/*@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Quattrocento:400,700&subset=latin-ext');*/
+@import url('https://fonts.googleapis.com/css?family=Neuton:400,700|Playfair+Display:400,700&display=swap');
 
-$serif: 'Quattrocento', serif;
-$sans-serif: 'Josefin Sans', sans-serif;
+/*$serif: 'Quattrocento', serif;
+$sans-serif: 'Josefin Sans', sans-serif;*/
+
+$serif: 'Playfair Display', serif;
+$sans-serif: 'Neutron', sans-serif;
+
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 $global-font-family: $sans-serif !default;
