@@ -81,3 +81,14 @@
     font-weight: 700;
   }
 }
+
+.medley-title{
+  font-family: $title-font-family;
+  font-weight: 700;
+}
+
+#medley-nav-logo{
+  height: 3ch;
+  transform: translate(0em,-0.2em);
+  padding-right: 1ch;
+}
