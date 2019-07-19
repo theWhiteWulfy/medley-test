@@ -28,19 +28,20 @@ $indent-var: 1.3em !default;
 
 /*custom fonts*/
 /*@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Quattrocento:400,700&subset=latin-ext');*/
-@import url('https://fonts.googleapis.com/css?family=Neuton:400,700|Playfair+Display:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Neuton:400,700|Playfair+Display:700|Sanchez:400,400i&display=swap');
 
 /*$serif: 'Quattrocento', serif;
 $sans-serif: 'Josefin Sans', sans-serif;*/
 
-$serif: 'Playfair Display', serif;
-$sans-serif: 'Neutron', $garamond, serif;
+$sans-serif: 'Sanchez', sans-serif;
+$serif: 'Neutron', $garamond, serif;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
-$sans-serif-narrow: $serif !default;
+$sans-serif-narrow: $sans-serif !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $serif !default;
-$caption-font-family: $sans-serif !default;
+$title-font-family: 'Playfair Display', serif;
+$global-font-family: $serif !default;
+$header-font-family: $sans-serif !default;
+$caption-font-family: $serif !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
