@@ -76,10 +76,7 @@
   li,
   dl {
     font-size: 1rem;
-  @include breakpoint($small){
-    font-size: 1.2rem;
-  }
-  @include breakpoint($medium){
+  @media max-width($medium){
     font-size: 1.2rem;
   }
   }
