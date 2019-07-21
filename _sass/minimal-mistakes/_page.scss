@@ -75,7 +75,16 @@
   p,
   li,
   dl {
+    font-size: 1rem;
+  @include breakpoint($small){
     font-size: 1.2rem;
+  }
+  @include breakpoint($medium){
+    font-size: 1.2rem;
+  }
+  }
+
+    
   }
 
   /* paragraph indents */
