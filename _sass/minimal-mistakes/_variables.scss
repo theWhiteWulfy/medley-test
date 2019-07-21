@@ -28,13 +28,13 @@ $indent-var: 1.3em !default;
 
 /*custom fonts*/
 /*@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Quattrocento:400,700&subset=latin-ext');*/
-@import url('https://fonts.googleapis.com/css?family=Martel:400,700|Playfair+Display:700|Sanchez:400,400i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,700|Playfair+Display|Sanchez&display=swap');
 
 /*$serif: 'Quattrocento', serif;
 $sans-serif: 'Josefin Sans', sans-serif;*/
 
 $sans-serif: 'Sanchez', sans-serif;
-$serif: 'Martel', $garamond, serif;
+$serif: 'Gentium Book Basic', $garamond, serif;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 $sans-serif-narrow: $sans-serif !default;
 
