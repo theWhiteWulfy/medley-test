@@ -1,5 +1,5 @@
 ---
-title: "Fight Club: A Political Discourse on Modern Man"
+title: 'Fight Club: A Political Discourse on Modern Man'
 author: Sukriti Vats
 category: [issue3, nonfiction]
 layout: single
