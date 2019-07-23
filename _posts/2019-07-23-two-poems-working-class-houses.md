@@ -8,7 +8,8 @@ category: [issue3, poetry]
 
 ### Working Class Houses 
 
-There’s never too much space 
+There’s never too much space
+
 to live in a house 
 you can’t call your own. 
 A kitchen window you can’t open 
