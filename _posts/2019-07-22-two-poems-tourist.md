@@ -7,7 +7,8 @@ category: [issue3, poetry]
 ---
 
 ### For the Tourist at Lal Qila, Delhi
-_After Agha Shahid Ali* _
+
+_After Agha Shahid Ali*_
 
 The tourist smiles - forced,
 frozen in photographs. 
