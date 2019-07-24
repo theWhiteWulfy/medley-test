@@ -4,7 +4,7 @@ title: Interview with Tishani Doshi
 author: editor
 category: [issue3, feature]
 feature_row1:
-  - image_path: '{{ site.url }}{{ site.baseurl }}/assets/img/trishani-doshi.jpg'
+  - image_path: {{ site.url }}{{ site.baseurl }}/assets/img/trishani-doshi.jpg
     alt: "Tishani Doshi"
     image_caption: 'Photo taken by Carlo Pizzati.'
     excerpt: 'Tishani Doshi is an award-winning poet, novelist and dancer. Her most recent books are _Girls Are Coming Out of the Woods_, shortlisted for the Ted Hughes Poetry Award, and a novel, _Small Days and Nights_ (Bloomsbury).'
