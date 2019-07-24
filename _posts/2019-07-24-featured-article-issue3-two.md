@@ -4,7 +4,7 @@ title: An Interview with Sumana Roy
 author: editor
 category: [issue3, feature]
 feature_row1:
-  - image_path: {{ site.url }}{{ site.baseurl }}/assets/img/sumana-roy.jpg
+  - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/img/sumana-roy.jpg
     alt: "Sumana Roy"
     image_caption: 'Photo taken by Shirsendu Karmakar.'
     excerpt: 'Sumana Roy is the author of _How I Became a Tree_, a work of non-fiction, _Missing: A Novel_, and _Out of Syllabus: Poems_. She has also recently edited _Animalia Indica: The Finest Animal Stories in Indian Literature_.'
