@@ -18,8 +18,8 @@ feature_row1:
 
 “Tishani Doshi’s writing, prose as well as poetry, is unassuming in its quiet intensity, and explores ideas about home and belonging, love and desire, body and identity. There is a keen emphasis on nature and repeated reminders of our shared humanness. She transcribes instances of transformation and narrates the lives of individuals who occupy liminal territories. Doshi’s works are intensely lyrical, building a seamless bridge over troubled waters where the calm exterior masks the turbulence beneath. In doing so, her writing examines the hidden faces of humanity with a startling rawness and vitality, but she somehow manages to balance the dark with the light, indifference with intimacy. Her characters are fabulously human; the women especially are fearless, bold and unapologetic, but they also have moments of insecurity. This true to life protrait that Doshi creates is unforgiving but there are still moments of grace, love, kindness, empathy and fellow-feeling.”
 
-> - Areeb Ahmad{ align:right }
->   Co-Editor-In-Chief{ align:right }
+- Areeb Ahmad {: style="text-align: right;"}
+  Co-Editor-In-Chief {: style="text-align: right;"}
 
 <hr>
 <br>
