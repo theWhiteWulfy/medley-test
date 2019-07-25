@@ -1,9 +1,9 @@
 ---
 layout: single
-title: An Interview with Sumana Roy
+title: Interview with Sumana Roy
 author: editor
 category: [issue3, feature]
-feature_row1:
+feature_row2:
   - image_path: https://github.com/TheMedley/TheMedley.github.io/raw/master/assets/img/sumana-roy.jpg
     alt: "Sumana Roy"
     image_caption: 'Photo taken by Shirsendu Karmakar.'
@@ -11,7 +11,16 @@ feature_row1:
     
 ---
 
+<style>
+.archive__item-caption{
+        font-size: .425em;
+    }
+</style>
+
 “Sumana Roy’s writing brims with rare originality, avoiding the clutches of genre and refusing to adhere to any sort of thematic restrictions. She elicits fascination at the most mundane of objects, managing to explore the wondrous life of trees in one work and the complexity of human relationships in another with equal skill and deftness of language. She flits from form to form with boundless ease, reflecting her keenness for new experiences. In the last few years, Roy has published a non-fiction genre-bending exploration of the natural world and how we fit in it; a literary fiction novel taut with tension which examines a modern marriage; a uniquely structured collection of evocative poems about love, identiy and belonging; and most recently, an edited anthology of the finest literature about animals from the subcontinent. Needless to say, Roy tries her hand at many things and enriches whatever she deems fit.”
+
+> - Areeb Ahmad{ align:right }
+>   Co-Editor-In-Chief{ align:right }
 
 <br>
 <hr>
