@@ -44,7 +44,7 @@ The tourist leaves, marigold <br>
 petals wither under his feet. <br>
 He does not look back.<br>
 
-_*Agha Shahid Ali - The Dacca Gauzes_
+<br>_*Agha Shahid Ali - The Dacca Gauzes_
 
 <br>
 <hr>
@@ -52,6 +52,7 @@ _*Agha Shahid Ali - The Dacca Gauzes_
 
 ### Driftwood
 
+<br>
 Driftwood: noun.<br>
 **1** Wood floating<br>
 on a body of water,<br>
