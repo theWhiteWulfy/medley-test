@@ -53,10 +53,10 @@ _*Agha Shahid Ali - The Dacca Gauzes_
 ### Driftwood
 
 Driftwood: noun.<br>
-1 Wood floating<br>
+**1** Wood floating<br>
 on a body of water,<br>
 cast ashore.<br>
-2 Polished wood,<br>
+**2** Polished wood,<br>
 an ornamental decoration,<br>
 welcomed home.<br>
 
@@ -85,9 +85,9 @@ of every conversation<br>
 never moves an inch away.<br>
 
 Driftwood: adjective.<br>
-1 A clash of currents,<br>
+**1** A clash of currents,<br>
 waves of my grandmother’s youth<br>
 over the tea gardens of Assam<br>
-2 The smell of varnish<br>
+**2** The smell of varnish<br>
 stiff like starch in folded sarees,<br>
 draped in the balconies of New Delhi.<br>
