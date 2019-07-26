@@ -3,6 +3,9 @@ layout: single
 title: Behind The Cover
 author: Sarthak Kwatra
 category: [issue3, behind_the_cover]
+header:
+  image: /assets/img/feature3.jpg
+  caption: "Photo credit: Sarthak Kwatra"
 
 ---
 
