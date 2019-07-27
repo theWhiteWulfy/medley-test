@@ -6,8 +6,9 @@ category: [issue3, fiction]
 
 ---
 
-Villars-Sur-Ollon
-15 July 2016
+**Villars-Sur-Ollon**
+
+**15 July 2016**
  
 I am seated in a tiny café as I write this. They’re playing The Mondrians on the radio and the air smells of the neighbourhood’s famous Swiss cheese. I’ve been here for an hour now and my coffee has gotten cold. The photographs I took in my three months of being here lie scattered on the table like my thoughts. I am not the best at capturing the beauty of the moment, but the photographs carry meaning that might not appeal to everyone but is significant to me, and always will be. I’ve grown so attached to this place and its wonders that I am finding it hard to process the fact that I leave tomorrow.
  
